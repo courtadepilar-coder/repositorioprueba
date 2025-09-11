@@ -9,11 +9,11 @@
     <teiHeader> 
       <fileDesc>
             <titleStmt>
-                <title xml:id="montevideo">Folio b8 y c1</title>
+                <title xml:id="montevideo">Folio b8yc1</title>
                 <author>Alonso Carrió de la Vandera</author>
-                <editor resp="digital">Gabriel Calarco</editor>  
-
+                <editor resp="digital">Matias Arreguez</editor>  
              </titleStmt>
+
             <publicationStmt>
                 <publisher>Humanidades Digitales 2025</publisher>
                 <availability>
