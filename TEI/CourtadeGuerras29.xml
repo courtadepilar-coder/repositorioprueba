@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+    <teiHeader> 
+        <fileDesc>
+
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor xml:id="pc">María del Pilar Courtade Guerras</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades Digitales UTDT 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader> 
+<text>
+    <body>
+        <p>
+           <pb n="c2"/> También se debe rebajar del referido número de vecinos muchos holgazanes criollos, a quienes con grandísima propiedad llaman <note xml:id="c2nota1">gauderios</note>, de quienes trataré brevemente. En esta ciudad y su dilatada campaña no hay más que un cura, cuyo beneficio le rinde al año 1500 pesos, tiene un ayudante y cinco sacerdotes avecindados, y no goza sínodo por el rey. Hay un convento de San Francisco, con ocho sacerdotes, tres <note xml:id="c2nota2">legos</note> y tres <note xml:id="c2nota3">donados</note>, que se mantienen de una estanzuela con un rebaño de ovejas y un corto número de vacas, sin cuyo arbitrio no pudieran subsistir en un país tan abundante, en que se da gratuitamente a los ociosos pan,  carne y pescado con abundancia, por lo que creo que los productos de la estancia no tendrán otro destino que el del templo y algunos extraordinarios que no se dan de limosna.
+
+        </p>
+
+        <p>
+
+           El principal renglón de que sacan dinero los hacendados es el de los cueros de toros, novillos y vacas, que regularmente venden allí de seis a nueve reales, a proporción del tamaño. Por el número de cueros que se embarcan para <placeName key="españa">España</placeName> no se pueden inferir las grandes matanzas que se hacen en <placeName>Montevideo</placeName> y sus contornos, y en las cercanías de <placeName key="bsas">Buenos Aires</placeName>, por <pb n="c3"/> que se debe entrar en cuenta las grandes porciones que ocultamente salen para <placeName key="portugal">Portugal</placeName> y la multitud que se gasta en el país. Todas las chozas se techan y <note xml:id="c3nota1">guarnecen</note> de cueros, y lo mismo los grandes corrales para encerrar el ganado. La porción de petacas en que se extraen las mercaderías y se conducen los equipajes son de cuero labrado y bruto. En las carretas que <note xml:id="c3nota2">trajinan</note> a <placeName key="jujuy">Jujuy</placeName>, <placeName key="mendoza">Mendoza</placeName> y <placeName key="corrientes">Corrientes</placeName> se gasta un número muy crecido, porque todos se pudren y se encogen tanto con los soles, que es preciso remudarlos a pocos días de servicio; y, en fin, usan de ellos para muchos ministerios, que fuera prolijidad referir, y está regulado se pierde todos los años la carne de 2000 bueyes y vacas, que sólo sirven para pasto de animales, aves e insectos, sin traer a la cuenta las proporciones considerables que roban los indios pampas y otras naciones.
+
+        </p> 
+
+        <p>
+
+           La dirección general de correos había pensado aprovechar mucha parte de esta carne para proveer las reales armadas, en lugar de la mucha que se lleva a España del Norte. Calculados los costos, se halló que con una ganancia bien considerable se podría dar el quintal de carne neta al precio que la venden los extranjeros, en bruto, y 
+           
+<!-- comentario -->
+
+        </p>
+
+        
+
+    </body>
+</text>
+
+</TEI>
