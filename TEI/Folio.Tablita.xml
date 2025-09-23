@@ -1,0 +1,100 @@
+?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model 
+ href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
+ schematypens="http://relaxng.org/ns/structure/1.0" 
+ type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+
+  
+
+    <teiHeader> 
+        <fileDesc>
+
+
+            <titleStmt>
+                <title xml:id="foliod4yd5">foliod4yd5</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Josefina Terazzolo</editor>  
+             </titleStmt>
+
+
+             
+            <publicationStmt>
+                <publisher>Humanidades Digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4. 0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+
+
+
+
+            <sourceDesc>
+            <bibl>      
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+
+
+
+        </fileDesc>
+    </teiHeader>
+
+
+        <text>
+        <body>
+
+<p> Resumen del numero de almas que existían el año de 1770 en la ciudad de la Santísima Trinidad y puerto de Santa María de Buenos Aires, con la razón de los que nacieron y murieron en dicho año, según consta de los libros parroquiales y la que dieron las comunidades de religiosos de ambos sexos y demás.
+
+Parroquias	Nº de almas	Nacidos	Muertos
+Catedral	8146	525	316
+San Nicolás	5176	344	185
+La Concepción	3529	318	158
+Monserrat	2468	184	96
+La Piedad	1746	151	91
+21065	1520	846
+Clérigos regulares y monjas	77		
+Santo Domingo	101		
+San Francisco	164		
+La Merced	86		
+Recoleta de San Francisco	46		
+Betlemitas	88	942 de este nº murieron	85
+Capuchinas	40		
+Catalinas	72		
+Huérfanos	99		
+Presidiarios	101	Nacidos	1520
+Cárcel	68	Muertos	931
+Aumento	589
+Total	22007		
+  —44→  
+División del número de almas que consta arriba:
+3639	hombres españoles, en que se incluyen 1854 europeos, los 1398 de la península, 456 extranjeros y 1785 criollos.
+4508	mujeres españolas.
+3985	niños de ambos sexos.
+5712	oficiales y soldados de tropa reglada, clérigos, frailes, monjas y dependientes de unos y de otros; presos presidiarios, indios, negros y mulatos, libres, de ambos sexos y de todas edades.
+4163	esclavos negros y mulatos de ambos sexos y de todas edades.
+22007	De los 3639 hombres españoles están compuestas las milicias de esta ciudad, en la forma siguiente:
+24	compañías de caballería, de vecinos, de a 50 hombres, sin oficiales, sargentos v cabos.
+9	dichas de forasteros, de infantería, de a 77 hombres, ídem.
+1	de artilleros provinciales, de 100 hombres.
+8	también hay 8 compañías de indios y mestizos, de a 50 hombres, ídem.
+8	dichas de mulatos libres, de caballería ídem.
+53	hacen 53 compañías, las 40 de caballería y 13 de infantería.
+3	de infantería, de negros libres, ídem
+Españoles casados
+Europeos	942 y el resto de	912 solteros
+Criollos	1058 y el resto de	727 ídem
+2000	1639 </note></p>
+
+
+</body>
+</text>
+</TEI>
