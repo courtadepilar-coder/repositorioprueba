@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="lcc_d2d3">Fragmento de El lazarillo de ciegos caminantes - Montevideo y Gauderios</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Sofia Tamburro</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades Digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+<text>
+<body>
+<p> pero sí a la vuelta para Montevideo, para en caso en que no pueda tomarse el puerto y verse precisados a dar fondo en agua salada. Antes del Riachuelo están las balizas, que son unas grandes estacas clavadas en el fondo, y por lo que se descubre de ellas se sabe si hay o no suficiente agua para darle en el puerto. Los pasajeros se desembarcan cerca del fuerte, y a sus espaldas y su principal entrada está en la plaza mayor y frente al cabildo de Buenos Aires.</p>
+
+<div n="2"><head> Buenos Ayres</head> 
+
+<p>Esta ciudad está situada al Oeste del gran Río de la Plata, y me parece se puede contar por la cuarta del gran gobierno del Perú, dando el primer lugar a Lima, el segundo al Cuzco, el tercero a Santiago de Chile y a ésta el cuarto. Las dos primeras exceden en adornos de iglesias y edificios a las otras dos.
+
+La de mi asunto se adelantó muchísimo en extensión y edificios desde el año de 1749, que estuve en ella. Entonces no sabían el nombre de quintas, ni conocían más fruta que los duraznos. Hoy no hay hombre de medianas conveniencias que no tenga su quinta con variedad de frutas, verduras y flores, que promovieron algunos hortelanos europeos, con el principal fin de criar bosques de duraznos, que sirven para leña, de que carecía en extremo la ciudad, sirviéndose por lo común de cardos, de que abunda la campaña, con notable   —40→   fastidio de los cocineros, que toleraban su mucho humo; pero ya al presente se conduce a la ciudad mucha leña en rajas, que traen las lanchas de la parte occidental del Paraná, y muchas carretas que entran de los montezuelos de las Conchas. Hay pocas casas altas, pero unas y otras bastante desahogadas y muchas bien edificadas, con buenos muebles, que hacen traer de la rica madera del Janeiro por la colonia del Sacramento. Algunas tienen grandes y coposa parras en sus patios y traspatios, que aseguran los habitantes, así europeos como criollos, que producen muchas y buenas uvas. Este adorno es únicamente propio de las casas de campaña, y aun de éstas se desterró de los colonos pulidos, por la multitud de animalitos perjudiciales que se crían en ellas y se comunican a las casas. En las ciudades y poblaciones grandes, además de aquel perjuicio superior al fruto que dan,</p> 
+</div>
+</body>
+</text>
+</TEI>
