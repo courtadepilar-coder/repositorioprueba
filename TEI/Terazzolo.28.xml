@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model 
+ href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" 
+ schematypens="http://relaxng.org/ns/structure/1.0" 
+ type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+
+  
+
+    <teiHeader> 
+        <fileDesc>
+
+
+            <titleStmt>
+                <title xml:id="foliod4yd5">foliod4yd5</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Josefina Terazzolo</editor>  
+             </titleStmt>
+
+
+             
+            <publicationStmt>
+                <publisher>Humanidades Digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4. 0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+
+
+
+
+            <sourceDesc>
+            <bibl>      
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+
+
+
+        </fileDesc>
+    </teiHeader>
+
+
+        <text>
+        <body>
+
+<p> se puede fácilmente experimentar otro de peores consecuencias, porque las parras bien cultivadas crían un tronco grueso, tortuoso y con muchos nudos, que facilitan el ascenso a los techos con buen descenso a los patios de la propia casa, de que se pueden aprovechar fácilmente los criados para sus insultos.
+
+Su extensión es de 22 cuadras comunes, tanto de Norte a Sur como de Este a Oeste. Hombres y mujeres se visten como los españoles europeos, y lo propio sucede desde Montevideo a la ciudad de Jujuy, con más o   —41→   menos pulidez. Las mujeres en esta ciudad, y en mi concepto son las más pulidas de todas las americanas españolas, y comparables a las sevillanas, pues aunque no tienen tanto chiste, pronuncian el castellano con más pureza. He visto sarao en que asistieron ochenta, vestidas y peinadas a la moda, diestras en la danza francesa y española, y sin embargo de que su vestido no es comparable en lo costoso al de Lima y demás del Perú, es muy agradable por su compostura y aliño. Toda la gente común, y la mayor parte de las señoras principales no dan utilidad alguna a los sastres, porque ellas cortan, cosen y aderezan sus batas y andrieles con perfección, porque son ingeniosas y delicadas costureras, y sin perjuicio de otras muchas que oí ponderar en Buenos Aires, de gran habilidad, observé por muchos días el gran arte, discreción y talento de la hermosa y fecunda española doña Gracia Ana, por haberla visto imitar las mejores costuras y bordados que se le presentaban de España y Francia.
+
+Las de medianos posibles, y aun las pobres, que no quiero llamarlas de segunda y tercera clase, porque no se enojen, no solamente se hacen y pulen sus vestidos, sino los de sus maridos, hijos y hermanos, principalmente si son de Tornay, como ellas se explican, con otras granjerías de lavar y almidonar, por medio de algunos de sus esclavos. Los hombres son circunspectos y de buenos ingenios.
+
+  —42→  
+No hay estudios públicos, por lo que algunos envían sus hijos a Córdoba y otros a Santiago de Chile, no apeteciendo las conveniencias eclesiásticas de su país, por ser de muy corta congrua y sólo suficientes para pasar una vida frugal.
+
+Gobierna esta ciudad y su jurisdicción, con título de gobernador y capitán general, el<pb </note></p>
+
+
+</body>
+</text>
+</TEI>
