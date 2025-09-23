@@ -52,47 +52,130 @@
         <text>
         <body>
 
-<p> Resumen del numero de almas que existían el año de 1770 en la ciudad de la Santísima Trinidad y puerto de Santa María de Buenos Aires, con la razón de los que nacieron y murieron en dicho año, según consta de los libros parroquiales y la que dieron las comunidades de religiosos de ambos sexos y demás.
-
-Parroquias	Nº de almas	Nacidos	Muertos
-Catedral	8146	525	316
-San Nicolás	5176	344	185
-La Concepción	3529	318	158
-Monserrat	2468	184	96
-La Piedad	1746	151	91
-21065	1520	846
-Clérigos regulares y monjas	77		
-Santo Domingo	101		
-San Francisco	164		
-La Merced	86		
-Recoleta de San Francisco	46		
-Betlemitas	88	942 de este nº murieron	85
-Capuchinas	40		
-Catalinas	72		
-Huérfanos	99		
-Presidiarios	101	Nacidos	1520
-Cárcel	68	Muertos	931
-Aumento	589
-Total	22007		
-  —44→  
-División del número de almas que consta arriba:
-3639	hombres españoles, en que se incluyen 1854 europeos, los 1398 de la península, 456 extranjeros y 1785 criollos.
-4508	mujeres españolas.
-3985	niños de ambos sexos.
-5712	oficiales y soldados de tropa reglada, clérigos, frailes, monjas y dependientes de unos y de otros; presos presidiarios, indios, negros y mulatos, libres, de ambos sexos y de todas edades.
-4163	esclavos negros y mulatos de ambos sexos y de todas edades.
-22007	De los 3639 hombres españoles están compuestas las milicias de esta ciudad, en la forma siguiente:
-24	compañías de caballería, de vecinos, de a 50 hombres, sin oficiales, sargentos v cabos.
-9	dichas de forasteros, de infantería, de a 77 hombres, ídem.
-1	de artilleros provinciales, de 100 hombres.
-8	también hay 8 compañías de indios y mestizos, de a 50 hombres, ídem.
-8	dichas de mulatos libres, de caballería ídem.
-53	hacen 53 compañías, las 40 de caballería y 13 de infantería.
-3	de infantería, de negros libres, ídem
-Españoles casados
-Europeos	942 y el resto de	912 solteros
-Criollos	1058 y el resto de	727 ídem
-2000	1639 </note></p>
+<p><table>
+  <head>
+    <row>
+      <cell>Parroquias / Grupo</cell>
+      <cell>Nº de almas</cell>
+      <cell>Nacidos</cell>
+      <cell>Muertos</cell>
+    </row>
+  </head>
+  <row>
+    <cell>Catedral</cell>
+    <cell>8146</cell>
+    <cell>525</cell>
+    <cell>316</cell>
+  </row>
+  <row>
+    <cell>San Nicolás</cell>
+    <cell>5176</cell>
+    <cell>344</cell>
+    <cell>185</cell>
+  </row>
+  <row>
+    <cell>La Concepción</cell>
+    <cell>3529</cell>
+    <cell>318</cell>
+    <cell>158</cell>
+  </row>
+  <row>
+    <cell>Monserrat</cell>
+    <cell>2468</cell>
+    <cell>184</cell>
+    <cell>96</cell>
+  </row>
+  <row>
+    <cell>La Piedad</cell>
+    <cell>1746</cell>
+    <cell>151</cell>
+    <cell>91</cell>
+  </row>
+  <row>
+    <cell></cell>
+    <cell>21065</cell>
+    <cell>1520</cell>
+    <cell>846</cell>
+  </row>
+  <row>
+    <cell>Clérigos regulares y monjas</cell>
+    <cell>77</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>Santo Domingo</cell>
+    <cell>101</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>San Francisco</cell>
+    <cell>164</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>La Merced</cell>
+    <cell>86</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>Recoleta de San Francisco</cell>
+    <cell>46</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>Betlemitas</cell>
+    <cell>88</cell>
+    <cell>942 de este nº murieron</cell>
+    <cell>85</cell>
+  </row>
+  <row>
+    <cell>Capuchinas</cell>
+    <cell>40</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>Catalinas</cell>
+    <cell>72</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>Huérfanos</cell>
+    <cell>99</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+  <row>
+    <cell>Presidiarios</cell>
+    <cell>101 Nacidos</cell>
+    <cell></cell>
+    <cell>1520</cell>
+  </row>
+  <row>
+    <cell>Cárcel</cell>
+    <cell>68 Muertos</cell>
+    <cell></cell>
+    <cell>931</cell>
+  </row>
+  <row>
+    <cell></cell>
+    <cell></cell>
+    <cell>Aumento</cell>
+    <cell>589</cell>
+  </row>
+  <row>
+    <cell>Total general</cell>
+    <cell>22007</cell>
+    <cell></cell>
+    <cell></cell>
+  </row>
+</table></note></p>
 
 
 </body>
