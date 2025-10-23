@@ -12,7 +12,7 @@ fierro,El Hierro,España,27.74196,-17.9993,,"El Hierro es la isla más pequeña 
 tucuman,Tucumán,Argentina,-26.81666667,-65.21666667,,"Tucumán es una provincia del noroeste de Argentina, conocida por su producción de azúcar y cítricos. Su capital, San Miguel de Tucumán, fue el lugar donde se declaró la Independencia Argentina en 1816."
 cordoba,Córdoba,Argentina,-31.41666667,-64.18333333,,"Provincia del centro de Argentina, conocida por su diversidad geográfica que incluye sierras, valles y llanuras."
 salta,Salta,Argentina,-24.78833333,-65.41055556,,"Ubicada estratégicamente en el Camino Real al Alto Perú, servía como punto de enlace entre Tucumán, Jujuy y las rutas hacia Potosí."
-frailemuerto,Fraile Muerto,Uruguay,27.74196,-17.9993,,item
+frailemuerto,Fraile Muerto,Uruguay,-32.6256,-62.6886,,"Posta en el Camino Real que se encuentra en el sudeste de la provincia de Córdoba, actualmente llamado Bell Ville."
 saladilloderuydiaz,Saladillo de Ruy Díaz,Argentina,-32.935,-62.345,,"Localidad ubicada en el actual departamento de Marcos Juárez en Córdoba, Argentina"
 santiagodelestero,Santiago del estero,Argentina,-27.78444444,-64.26694444,,"Ubicada en una región de clima cálido y seco, su economía se basaba en la ganadería y el intercambio regional."
 potosi ,Potosí,Bolivia,-19.5889,-65.7531,,"Potosí es una ciudad del sur de Bolivia, situada a más de 4.000 metros de altitud. "
@@ -20,13 +20,13 @@ cuzco,Cuzco ,Peru ,-13.51694444,-71.97861111,,"Cuzco es una ciudad del sur de Pe
 riotercero,río Tercero,Argentina,-32.1767655,-64.1129881,,"Rodeado de tierras fértiles y sierras bajas; en la época colonial, era paso estratégico para el ganado y la agricultura, vinculado a estancias y rutas de comercio."
 europa,Europa,Europa ,48.44821477,7.865389465,,Europa es uno de los continentes del mundo. Se encuentra ubicado en el hemisferio norte. 
 santodo,Santo Domingo ,Argentina,-36.7167,-57.5833,,"pequeña localidad del norte de la provincia de Córdoba, que durante el período colonial formaba parte del Camino Realque conectaba Buenos Aires con el Alto Perú."
-sanfra,San Francisco,Argentina,-31.43555556,-62.07111111,,"es una ciudad del este de la provincia de Córdoba, en el límite con Santa Fe. Su ubicación la convirtió en un punto estratégico dentro del corredor que unía el litoral con el interior del país, heredero del antiguo Camino Real al Alto Perú."
+sanfra,San Francisco,Argentina,-31.43555556,-62.07111111,,"Ciudad del este de la provincia de Córdoba, en el límite con Santa Fe. Su ubicación la convirtió en un punto estratégico dentro del corredor que unía el litoral con el interior del país, heredero del antiguo Camino Real al Alto Perú."
 merced,La Merced,Argentina,-28.4586,-65.7272,,"La Merced es una localidad y cabecera del departamento Valle Viejo, situada en el centro-este de la provincia de Catamarca,es una zona principalmente residencial y agrícola"
 riosegundo,río Segundo,Argentina,-31.6503,-63.9117,,"Área de tránsito de comerciantes y viajeros, servía como referencia para rutas de cabalgatas y caminos entre estancias y pueblos."
 puestosdeferreira,Puestos de Ferreira,Argentina,-32.040755,-64.972694,,"Posta del Camino Real. Ubicada en la provincia de Córdoba, es actualmente un puesto de senderismo, cercano al Cerro Champaqui"
 rioplata,Rio de la Plata,Argentina/Uruguay,-34.69392999,-57.41171597,,"El Rio de la Plata está formado por la unión de los ríos Uuruguay y Paraná. Se encuentra ubicado al sur de América y desemboca en el Atlántico Sur. Durante la época del virreinato, fue fundamental para construir su poder al permitir el traslado de mercancías recibidas en su puerto en Buenos Aires. "
 rioprimero,río Primero,Argentina,-31.33333333,-63.61666667,,"Zona de estancias y pequeños pueblos, importante para transporte fluvial y asentamientos agrícolas en el interior de Córdoba."
-santatere,Santa teresa ,Argentina,-33.5167,-61.7833,,"es una localidad situada en el sur de la provincia de Santa Fe, cercana al antiguo trazado del Camino Real que unía Buenos Aires con el Alto Perú."
+santatere,Santa Teresa ,Argentina,-33.5167,-61.7833,,"Localidad situada en el sur de la provincia de Santa Fe, cercana al antiguo trazado del Camino Real que unía Buenos Aires con el Alto Perú."
 santaclara,Santa Clara,Argentina,-24.3167,-64.6667,,"Santa Clara es una localidad del sudeste de la provincia de Jujuy, cercana al límite con Salta."
 america,América,América,54.526,105.2551,,"Fue escenario de antiguas civilizaciones como los mayas, aztecas e incas, y tras la llegada de los europeos en el siglo XVI, se convirtió en un territorio clave para el intercambio cultural y económico"
 stafe,Santa fe,Argentina,-33.72277778,-62.24611111,,"Ubicada a orillas del río Paraná, fue un punto estratégico del comercio fluvial y del Camino Real que conectaba Buenos Aires con el interior"
@@ -96,7 +96,7 @@ lasconchas,las Conchas,Argentina,-34.41666,-58.5833,,"las conchas es el antiguo 
 janeiro,Rio de Janeiro,Brasil,-22.91111,-43.2055,,ciudad portuaria de brasil
 coloniadelsacramento,Colonia del Sacramento,Uruguay,-34.4713,-57.8441,,"Colonia del Sacramento fue fundada por los portugueses en 1680 frente a Buenos Aires, a orillas del Río de la Plata."
 palma,isla y ciudad de la palma,España,39.57495171,2.6512257,,"La Isla de La Palma, también conocida como ""La Isla Bonita,"" es una isla volcánica española en el archipiélago canario, famosa por sus paisajes exuberantes, bosques, costas escarpadas y cielos claros."
-sancarlos,destacamento de San Carlos el regimiento de Mallorca,,27.74196,-17.9993,,item
+sancarlos,destacamento de San Carlos el regimiento de Mallorca,pais,27.74196,-17.9993,,item
 canarias,canarias,España,27.74196,-17.9993,,item
 estanciacaroya,Estancia de Caroya,Argentina,-31.0333,-64.0833,,"La Estancia de Caroya, ubicada en Caroya, al norte de Córdoba, era un establecimiento que pertenecía a la orden jesuítica, junto con las estancias de Santa Catalina, Jesús María, La Candelaria y Alta Gracia."
 monserratdecordoba,Monserrat de Córdoba,Argentina,-31.4201,-64.1888,,"Antiguo convento y barrio de Nuestra Señora de Monserrat, en la ciudad de Córdoba."
