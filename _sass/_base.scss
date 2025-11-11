@@ -12,7 +12,7 @@ a {
     /* remove link underline */ 
     text-decoration: none;
     @if $link-color != "" { 
-        color: $link-color; 
+        color: #FF24BE; 
         &:hover {
             @if $text-color != "" { color: $text-color; }
         }
