@@ -1,9 +1,9 @@
 color_class,color
 primary, #614101ff
-secondary,
+secondary, #a57109ff
 success, #614101ff
-info,
-warning,
-danger,
-light,
+info, #a57109ff
+warning, #a57109ff
+danger, #a57109ff
+light, #a57109ff
 dark, #a57109ff
